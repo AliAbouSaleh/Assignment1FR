@@ -1,0 +1,11 @@
+Model Information:
+* title:	Road Block Cement
+* source:	https://sketchfab.com/3d-models/road-block-cement-9b364e1827944e3ab7a5b05b9a82c05a
+* author:	illustrationlogic (https://sketchfab.com/illustrationlogic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Road Block Cement" (https://sketchfab.com/3d-models/road-block-cement-9b364e1827944e3ab7a5b05b9a82c05a) by illustrationlogic (https://sketchfab.com/illustrationlogic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,289 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        1.0,
+        3.2675867080688477,
+        3.880094289779663
+      ],
+      "min": [
+        -1.0,
+        -3.2675867080688477,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 888,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        1.0,
+        0.5364105701446533,
+        0.9058625102043152,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.5364106893539429,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 74,
+      "max": [
+        0.9909437298774719,
+        0.9906968474388123
+      ],
+      "min": [
+        0.00905626267194748,
+        0.009303109720349312
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 240,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "illustrationlogic (https://sketchfab.com/illustrationlogic)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/road-block-cement-9b364e1827944e3ab7a5b05b9a82c05a",
+      "title": "Road Block Cement"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 960,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 592,
+      "byteOffset": 960,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1776,
+      "byteOffset": 1552,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1184,
+      "byteOffset": 3328,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4512,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/road_block_cement_new_baseColor.png"
+    },
+    {
+      "uri": "textures/road_block_cement_new_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/road_block_cement_new_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "road_block_cement_new",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.5626905487804879
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "road_block_cement_new_low_road_block_cement_new_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -4.440892098500626e-16,
+        -3.828568672208042e-16,
+        1.0,
+        0.0,
+        -1.0,
+        -2.832769343193998e-16,
+        -4.440892098500627e-16,
+        0.0,
+        2.832769343193999e-16,
+        -1.0,
+        -3.828568672208042e-16,
+        0.0,
+        -0.00021219254995230585,
+        -155.2035369873047,
+        0.00021219254991784376,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "06480dd374a347e7b63ef72561938fea.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -39.99999618530259,
+        -3.496910858691158e-06,
+        0.0,
+        0.0,
+        3.496910858691158e-06,
+        -39.99999618530259,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        39.999996185302734,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "road_block_cement_new_low"
+    },
+    {
+      "mesh": 0,
+      "name": "road_block_cement_new_low_road_block_cement_new_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
