@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stop Sign Free
+* source:	https://sketchfab.com/3d-models/stop-sign-free-a6ff6aa7753348bfb7de7d5abe55798b
+* author:	Majux (https://sketchfab.com/Majux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stop Sign Free" (https://sketchfab.com/3d-models/stop-sign-free-a6ff6aa7753348bfb7de7d5abe55798b) by Majux (https://sketchfab.com/Majux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
