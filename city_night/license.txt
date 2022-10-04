@@ -1,0 +1,11 @@
+Model Information:
+* title:	City Night
+* source:	https://sketchfab.com/3d-models/city-night-10aa62d80fee4b4aafc5eb412f13579f
+* author:	Johndoh (https://sketchfab.com/Johndoh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "City Night" (https://sketchfab.com/3d-models/city-night-10aa62d80fee4b4aafc5eb412f13579f) by Johndoh (https://sketchfab.com/Johndoh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
